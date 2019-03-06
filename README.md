@@ -1,1 +1,1 @@
-# whitepaper
+# Golfcoin WhitePaper 2019
